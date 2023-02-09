@@ -4,7 +4,8 @@
 
 - To understand the workflow of git (VCS)
 - To understand the collaborative and branch concept of github
-
+- To create a merge conflict
+- To resolve the merge conflict
 ## Theory
 
 - [GIT](https://git-scm.com) is a decentralized VCS(Version Control System) that is fast and open source. It is used to track the version history of any project small to large and collaborate with other developers with ease and concurrent pipelines.
